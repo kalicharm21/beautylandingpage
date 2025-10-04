@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1",
+    "name": "Radiant Lipstick Foundation",
+    "category": "Lipstick",
+    "price": 58,
+    "originalPrice": 100,
+    "rating": 4.8,
+    "reviews": 234,
+    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "images": [
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+    ],
+    "model": "/models/foundation.glb",
+    "description": "A luminous foundation that provides medium to full coverage with a natural, radiant finish. Infused with skin-loving ingredients for all-day comfort.",
+    "benefits": ["24-hour wear", "Buildable coverage", "SPF 30 protection", "Hydrating formula"],
+    "ingredients": ["Hyaluronic Acid", "Vitamin E", "Titanium Dioxide", "Zinc Oxide"],
+    "shades": ["Porcelain", "Fair", "Light", "Medium", "Tan", "Deep"],
+    "tags": ["Vegan", "Cruelty-free", "Paraben-free"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "7",
+    "name": "Matte Setting Powder",
+    "category": "Powder",
+    "price": 32,
+    "originalPrice": 40,
+    "rating": 4.7,
+    "reviews": 312,
+    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "images": [
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+    ],
+    "model": "/models/powder.glb",
+    "description": "A finely-milled matte setting powder that locks makeup in place and reduces shine for a flawless finish.",
+    "benefits": ["Oil-control", "Lightweight", "Smooth finish", "Long-lasting"],
+    "ingredients": ["Talc", "Mica", "Silica", "Zinc Stearate"],
+    "shades": ["Translucent", "Light", "Medium", "Deep"],
+    "tags": ["Vegan", "Cruelty-free", "Paraben-free"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "8",
+    "name": "Volumizing Mascara",
+    "category": "Mascara",
+    "price": 29,
+    "originalPrice": 36,
+    "rating": 4.6,
+    "reviews": 502,
+    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "images": [
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+    ],
+    "model": "/models/mascara.glb",
+    "description": "A lengthening and volumizing mascara that defines lashes without clumping, giving a dramatic, full lash look.",
+    "benefits": ["Clump-free", "Long-lasting", "Intense color", "Easy removal"],
+    "ingredients": ["Beeswax", "Carnauba Wax", "Iron Oxides", "Vitamin E"],
+    "shades": ["Black", "Brown"],
+    "tags": ["Vegan", "Cruelty-free", "Smudge-proof"],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "Soothing Lip Balm",
+    "category": "Lipcare",
+    "price": 15,
+    "originalPrice": 20,
+    "rating": 4.9,
+    "reviews": 221,
+    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "images": [
+      "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+    ],
+    "model": "/models/lipbalm.glb",
+    "description": "A nourishing lip balm that hydrates and protects lips with natural oils and shea butter, leaving them soft and smooth.",
+    "benefits": ["Hydrating", "Non-sticky", "Soothing", "Natural shine"],
+    "ingredients": ["Shea Butter", "Coconut Oil", "Beeswax", "Vitamin E"],
+    "shades": ["Clear", "Rose Tint", "Peach Glow"],
+    "tags": ["Vegan", "Cruelty-free", "Paraben-free"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "10",
+    "name": "Luxury Eye Shadow Palette",
+    "category": "Eye Shadow",
+    "price": 65,
+    "originalPrice": 78,
+    "rating": 4.8,
+    "reviews": 412,
+    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "images": [
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+    ],
+    "model": "/models/eyeshadow.glb",
+    "description": "A luxurious eyeshadow palette with 12 highly-pigmented shades in matte and shimmer finishes for endless eye looks.",
+    "benefits": ["Blendable", "Long-lasting", "Highly pigmented", "Versatile shades"],
+    "ingredients": ["Mica", "Talc", "Magnesium Stearate", "Dimethicone"],
+    "shades": ["Champagne", "Bronze", "Rose Gold", "Plum", "Taupe", "Chocolate", "Gold", "Copper", "Berry", "Sand", "Pearl", "Olive"],
+    "tags": ["Vegan", "Cruelty-free", "Paraben-free"],
+    "inStock": true,
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "Luxury Eye Shadow Palette DArker",
+    "category": "Eye Shadow Darker",
+    "price": 65,
+    "originalPrice": 78,
+    "rating": 4.8,
+    "reviews": 412,
+    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "images": [
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
+      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+    ],
+    "model": "/models/eyeshadow.glb",
+    "description": "A luxurious eyeshadow palette with 12 highly-pigmented shades in matte and shimmer finishes for endless eye looks.",
+    "benefits": ["Blendable", "Long-lasting", "Highly pigmented", "Versatile shades"],
+    "ingredients": ["Mica", "Talc", "Magnesium Stearate", "Dimethicone"],
+    "shades": ["Champagne", "Bronze", "Rose Gold", "Plum", "Taupe", "Chocolate", "Gold", "Copper", "Berry", "Sand", "Pearl", "Olive"],
+    "tags": ["Vegan", "Cruelty-free", "Paraben-free"],
+    "inStock": true,
+    "featured": true
+  }
+]
