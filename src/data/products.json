@@ -7,11 +7,11 @@
     "originalPrice": 100,
     "rating": 4.8,
     "reviews": 234,
-    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "image": "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759612692/Gemini_Generated_Image_q98pbxq98pbxq98p_qypem0.png",
     "images": [
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759612690/Gemini_Generated_Image_75aeih75aeih75ae_oogsk8.png",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759612692/Gemini_Generated_Image_o1ryzuo1ryzuo1ry_ge9izh.png",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759612692/Gemini_Generated_Image_q98pbxq98pbxq98p_qypem0.png"
     ],
     "model": "/models/foundation.glb",
     "description": "A luminous foundation that provides medium to full coverage with a natural, radiant finish. Infused with skin-loving ingredients for all-day comfort.",
@@ -23,18 +23,18 @@
     "featured": true
   },
   {
-    "id": "7",
+    "id": "2",
     "name": "Matte Setting Powder",
     "category": "Powder",
     "price": 32,
     "originalPrice": 40,
     "rating": 4.7,
     "reviews": 312,
-    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "image": "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613312/generated-image_bsqmav.jpg",
     "images": [
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613310/generated-image_1_e3hhpn.jpg",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613311/generated-image_2_lvgc9w.jpg",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613312/generated-image_bsqmav.jpg"
     ],
     "model": "/models/powder.glb",
     "description": "A finely-milled matte setting powder that locks makeup in place and reduces shine for a flawless finish.",
@@ -46,18 +46,18 @@
     "featured": true
   },
   {
-    "id": "8",
+    "id": "3",
     "name": "Volumizing Mascara",
     "category": "Mascara",
     "price": 29,
     "originalPrice": 36,
     "rating": 4.6,
     "reviews": 502,
-    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "image": "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613522/generated-image_4_seyfex.jpg",
     "images": [
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613511/generated-image_5_htrjfo.jpg",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613513/generated-image_3_fyvvca.jpg",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613522/generated-image_4_seyfex.jpg"
     ],
     "model": "/models/mascara.glb",
     "description": "A lengthening and volumizing mascara that defines lashes without clumping, giving a dramatic, full lash look.",
@@ -66,21 +66,21 @@
     "shades": ["Black", "Brown"],
     "tags": ["Vegan", "Cruelty-free", "Smudge-proof"],
     "inStock": true,
-    "featured": false
+    "featured": true
   },
   {
-    "id": "9",
+    "id": "4",
     "name": "Soothing Lip Balm",
     "category": "Lipcare",
     "price": 15,
     "originalPrice": 20,
     "rating": 4.9,
     "reviews": 221,
-    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "image": "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759614005/generated-image_6_qrpmur.jpg",
     "images": [
-      "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613986/generated-image_8_rl09vu.jpg",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759613991/generated-image_7_diqg35.jpg",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759614005/generated-image_6_qrpmur.jpg"
     ],
     "model": "/models/lipbalm.glb",
     "description": "A nourishing lip balm that hydrates and protects lips with natural oils and shea butter, leaving them soft and smooth.",
@@ -92,18 +92,18 @@
     "featured": true
   },
   {
-    "id": "10",
+    "id": "5",
     "name": "Luxury Eye Shadow Palette",
     "category": "Eye Shadow",
     "price": 65,
     "originalPrice": 78,
     "rating": 4.8,
     "reviews": 412,
-    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
+    "image": "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759614168/generated-image_9_fjuxbi.jpg",
     "images": [
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759614167/generated-image_11_wrg7hx.jpg",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759614167/generated-image_10_fzqdzs.jpg",
+      "https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759614168/generated-image_9_fjuxbi.jpg"
     ],
     "model": "/models/eyeshadow.glb",
     "description": "A luxurious eyeshadow palette with 12 highly-pigmented shades in matte and shimmer finishes for endless eye looks.",
@@ -113,28 +113,5 @@
     "tags": ["Vegan", "Cruelty-free", "Paraben-free"],
     "inStock": true,
     "featured": false
-  },
-  {
-    "id": "11",
-    "name": "Luxury Eye Shadow Palette DArker",
-    "category": "Eye Shadow Darker",
-    "price": 65,
-    "originalPrice": 78,
-    "rating": 4.8,
-    "reviews": 412,
-    "image": "https://img.freepik.com/free-photo/close-up-collection-make-up-beauty-products_23-2148620012.jpg?semt=ais_hybrid&w=740&q=80",
-    "images": [
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp",
-      "https://visagetechnologies.com/app/uploads/2023/03/beauty-trends-cover-picture-copy.webp"
-    ],
-    "model": "/models/eyeshadow.glb",
-    "description": "A luxurious eyeshadow palette with 12 highly-pigmented shades in matte and shimmer finishes for endless eye looks.",
-    "benefits": ["Blendable", "Long-lasting", "Highly pigmented", "Versatile shades"],
-    "ingredients": ["Mica", "Talc", "Magnesium Stearate", "Dimethicone"],
-    "shades": ["Champagne", "Bronze", "Rose Gold", "Plum", "Taupe", "Chocolate", "Gold", "Copper", "Berry", "Sand", "Pearl", "Olive"],
-    "tags": ["Vegan", "Cruelty-free", "Paraben-free"],
-    "inStock": true,
-    "featured": true
   }
 ]

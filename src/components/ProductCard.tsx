@@ -107,7 +107,7 @@ const ProductCard = ({ product, viewMode = 'grid' }: ProductCardProps) => {
                 <span className="text-lg font-bold text-primary">${product.price}</span>
                 {product.originalPrice && (
                   <span className="text-sm text-muted-foreground line-through">
-                    ${product.originalPrice}
+                    ₹{product.originalPrice}
                   </span>
                 )}
               </div>
@@ -220,7 +220,7 @@ const ProductCard = ({ product, viewMode = 'grid' }: ProductCardProps) => {
           {/* Price */}
           <div className="flex items-center justify-between mb-3">
             <div className="flex items-center space-x-2">
-              <span className="text-lg font-bold text-primary">${product.price}</span>
+              <span className="text-lg font-bold text-primary">₹{product.price}</span>
               {product.originalPrice && (
                 <span className="text-sm text-muted-foreground line-through">
                   ${product.originalPrice}

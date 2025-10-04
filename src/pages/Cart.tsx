@@ -150,7 +150,7 @@ const Cart = () => {
                   
                   <div className="mt-2 text-right">
                     <p className="text-sm text-muted-foreground">
-                      Subtotal: <span className="font-medium text-foreground">${(item.price * item.quantity).toFixed(2)}</span>
+                      Subtotal: <span className="font-medium text-foreground">₹{(item.price * item.quantity).toFixed(2)}</span>
                     </p>
                   </div>
                 </div>

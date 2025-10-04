@@ -107,7 +107,7 @@ const Cart = () => {
                           </p>
                         )}
                         <p className="text-sm font-medium text-primary">
-                          ${item.price}
+                          ₹{item.price}
                         </p>
 
                         {/* Quantity Controls */}
@@ -155,7 +155,7 @@ const Cart = () => {
                 <div className="flex justify-between items-center mb-4">
                   <span className="text-lg font-semibold">Total:</span>
                   <span className="text-lg font-bold text-primary">
-                    ${total.toFixed(2)}
+                    ₹{total.toFixed(2)}
                   </span>
                 </div>
                 <Button 

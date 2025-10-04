@@ -147,7 +147,7 @@ const Checkout = () => {
             <div className="text-left space-y-2">
               <div className="flex justify-between">
                 <span className="text-muted-foreground">Order Total:</span>
-                <span className="font-bold text-primary">${grandTotal.toFixed(2)}</span>
+                <span className="font-bold text-primary">₹{grandTotal.toFixed(2)}</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-muted-foreground">Items:</span>
