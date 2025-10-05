@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 
-export type ThemeOption = 'velvet' | 'nightlight' | 'dark' | 'light';
+export type ThemeOption = 'velvet' |'dark'| 'light';
 
 interface ThemeStore {
   theme: ThemeOption;
@@ -12,12 +12,12 @@ const applyTheme = (theme: ThemeOption) => {
   const root = document.documentElement;
   
   // Remove all theme classes
-  root.classList.remove('dark', 'nightlight', 'velvet', 'light');
+  root.classList.remove('dark', 'velvet', 'light');
   
   // Apply the selected theme
-  if (theme !== 'light') {
+  // if (theme !== 'light') {
     root.classList.add(theme);
-  }
+  // }  
 };
 
 export const useThemeStore = create<ThemeStore>()(
@@ -26,17 +26,22 @@ export const useThemeStore = create<ThemeStore>()(
       theme: 'velvet' as ThemeOption,
       
       setTheme: (theme) => {
-        set({ theme });
-        applyTheme(theme);
-      },
+  if (theme !== 'velvet' && theme !== 'dark' && theme !== 'light') {
+    theme = 'velvet';
+  }
+  set({ theme });
+  applyTheme(theme);
+},
     }),
     {
       name: 'VELOUR-theme-storage',
       onRehydrateStorage: () => (state) => {
         // Apply theme on rehydration
-        if (state?.theme) {
-          applyTheme(state.theme);
-        }
+        if (state?.theme === 'velvet' || state?.theme === 'dark' || state?.theme === 'light') {
+  applyTheme(state.theme);
+} else {
+  applyTheme('velvet');
+}
       },
     }
   )
