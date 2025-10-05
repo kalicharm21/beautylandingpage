@@ -39,19 +39,19 @@ const About = () => {
     {
       name: 'Sarah Chen',
       role: 'Founder & CEO',
-      image: '/api/placeholder/300/300',
+      image: 'https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759649063/generated-image_15_eneg9t.jpg',
       description: 'Former beauty industry executive with 15+ years of experience.',
     },
     {
       name: 'Marcus Rodriguez',
       role: 'Head of Product Development',
-      image: '/api/placeholder/300/300',
+      image: 'https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759649072/generated-image_13_naeyaa.jpg',
       description: 'Cosmetic chemist specializing in sustainable formulations.',
     },
     {
       name: 'Aisha Patel',
       role: 'Creative Director',
-      image: '/api/placeholder/300/300',
+      image: 'https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759649078/generated-image_14_f2u8vn.jpg',
       description: 'Award-winning makeup artist and color theory expert.',
     },
   ];
@@ -96,9 +96,9 @@ const About = () => {
           </div>
           <div className="relative">
             <img
-              src="/api/placeholder/600/400"
+              src="https://res.cloudinary.com/dwvqwxzg5/image/upload/v1759647617/generated-image_12_jbkjzm.jpg"
               alt="VELOUR cosmetics laboratory"
-              className="rounded-lg shadow-elegant w-full"
+              className="rounded-lg shadow-elegant w-full h-auto object-cover"
             />
           </div>
         </div>
